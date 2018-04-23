@@ -15,7 +15,7 @@ BASETIME = 0.0005;
 % ePWM Block Parameter
 % TBCLK = 128; HSPCLKDIV = 2
 % time in s = value /(150MHz/(TBCLK*HSPCLKDIV)) 586=1ms
-CLK_CYC_timer_1 = 586;   % 1   ms 
+CLK_CYC_timer_1 = 586;   % 1   ms Timer for CAN-Bus-Communication 
 CLK_CYC_timer_2 = 5860;  % 10  ms 
 CLK_CYC_timer_3 = 280; % 1.x ms 
 CLK_CYC_timer_4 = 586*100; % 1.x ms 
