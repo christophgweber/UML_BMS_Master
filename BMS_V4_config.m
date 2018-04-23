@@ -3,7 +3,7 @@
 %   
 %
 % Company:      University of Applied Sciences Kiel, Germany
-% Author:       Hannes Rathmann, Fabian Franke
+% Author:       Hannes Rathmann, Fabian Franke, Christoph Weber
 % Date:         27.02.2017
 % Version:      Energiemanagement V 4.0
 %
